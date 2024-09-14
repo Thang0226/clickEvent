@@ -1,0 +1,1 @@
+let imgObj = document.getElementById();
